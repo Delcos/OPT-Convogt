@@ -20,7 +20,3 @@ cd convogpt
 pip install protobuf==3.20.*
 python -m pip install -r requirements
 ```
-
-## 🤖 Inference
-```python
-```
