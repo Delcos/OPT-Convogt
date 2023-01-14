@@ -15,7 +15,7 @@ Aside from this, it is now able to get repeated inputs instead of running once a
 ## 🔑 Setup
 
 ```shell
-git clone git@github.com:harubaru/convogpt.git
+git clone https://github.com/Delcos/OPT-Convogt
 cd convogpt
 pip install protobuf==3.20.*
 python -m pip install -r requirements
